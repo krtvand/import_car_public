@@ -8,7 +8,7 @@ Japanese car auctions are not open to the general public and require a licensed 
 
 In each case, I imported a Nissan Note e-Power 2023 directly from auction as a private individual (not a company).
 
-### Option 1: auXXXXXXXXXjp
+### Exporter 1: auXXXXXXXXXjp
 
 - Service fees + freight (RORO) for Nissan Note: ¥366200 (December 2025)
 
@@ -22,9 +22,9 @@ In each case, I imported a Nissan Note e-Power 2023 directly from auction as a p
 - I often experience delays in getting responses from the manager.
 
 
-### Option 2: mdXXXXXXXXom
+### Exporter 2: mdXXXXXXXXom
 
-- Service fees + freight (RORO) for Nissan Note: ¥411000 (August 2025) - approximately €240 more expensive than Option 1
+- Service fees + freight (RORO) for Nissan Note: ¥411000 (August 2025) - approximately €240 more expensive than Exporter 1
 
 - No limits for active bids. More user-friendly web portal
 - Helpful statistics showing historical auction prices
