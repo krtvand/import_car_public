@@ -7,15 +7,17 @@ Japanese car auctions are not open to the general public and require a licensed 
 ## My Experience with Japanese Car Exporters
 
 In each case, I imported a Nissan Note e-Power 2023 directly from auction as a private individual (not a company).
+For exporter contact details, message on Telegram: https://t.me/AndreyKartaev
+ 
 
 ### Exporter 1: auXXXXXXXXXjp
 
 - Service fees + freight (RORO) for Nissan Note: ¥366200 (December 2025)
 
 - Russian-speaking support available
-- Reliable shipping times: 24-30 days from auction win to RORO departure:
+- Shipping time: 24-48 days from auction win to RORO departure:
   - My December import: 30 days from auction to RORO departure
-  - My January import: 24 days from auction to RORO departure
+  - My January import: 48 days from auction to RORO departure
 
 - Limited to 5 active bids at a time — restrictive if you want to bid on multiple cars
 - Web portal is not user-friendly, though still manageable
